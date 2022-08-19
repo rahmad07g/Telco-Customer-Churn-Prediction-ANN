@@ -1,5 +1,8 @@
-# Milestones 1
-Milestones ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada Phase 2.
+# Telco Customer Churn Prediction Using Artificial Neural Networks
+Conduct descriptive analysis and Build ANN model that predicts churn of teleco services subscription data. Insights:
+potential bad service types that caused churn and customer clusters based on churn.
+Animals Image Computer Vision Classifier Using Convolutional Neural Network
+
 
 By [Rahmad Gunawan]
 ## Dashboard
